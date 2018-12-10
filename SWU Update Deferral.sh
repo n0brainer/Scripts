@@ -21,7 +21,7 @@ IFS='%'
 ##  - Additional 'mode' to show updates strictly as text strings, not checkboxes
 
 ##  Path to cocoaDialog (customize to your own location)
-cdPath="/usr/local/bin/cocoaDialog.app/Contents/MacOS/cocoaDialog"
+cdPath="/path/to/cocoaDialog.app/Contents/MacOS/cocoaDialog"
 
 
 ## Defer Variables
